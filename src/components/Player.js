@@ -1,7 +1,6 @@
 import React, { PureComponent } from "react";
 import PropTypes from "prop-types";
 import Counter from "./Counter";
-import Icon  from "./icon";
 
 class Player extends PureComponent {
   static protoTypes = {
